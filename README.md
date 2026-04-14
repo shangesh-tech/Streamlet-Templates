@@ -53,7 +53,7 @@ This repository may include templates such as:
 
 ## Getting Started
 
-1. clone template
+1. Choose a template and clone
 2. Install dependencies
 3. Add your Streamlet credentials
 4. Run locally
@@ -66,5 +66,9 @@ NEXT_PUBLIC_STREAMLET_API_URL=https://api.streamlet.in
 STREAMLET_API_KEY=your_api_key
 STREAMLET_ACCOUNT_NUMBER=your_account_number
 ```
+---
+
+## Check Out - [Streamlet SDK](https://www.npmjs.com/package/@streamlet/sdk)
+
 ---
 ## Contact - shangesh@streamlet.in
